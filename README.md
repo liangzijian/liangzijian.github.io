@@ -1,9 +1,11 @@
 # Data Analyst
 
 ### Education
-  Mathematic
-  Honours of Bachelor of Science
-  University of Toronto
+Mathematic
+
+Honours of Bachelor of Science
+
+University of Toronto
 
 ### Work Experience
 **Data Analyst @ DOZR
@@ -14,4 +16,5 @@
 
 ### Projects
 [Project 1](https://github.com/liangzijian/Study-Project-New)
+
 [Project 2](https://github.com/liangzijian/Study-Project-New)
